@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Adoeable, You love me that much?? 💋💋",  // Shows when they go past 5000%
+        extreme: "Adorable, You love me that much?? 💋💋",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀",              // Shows when they go past 1000%
         normal: "And beyond!❣️"                           // Shows when they go past 100%
     },
@@ -68,7 +68,7 @@ const CONFIG = {
     // Adjust these if you want faster/slower animations
     animations: {
         floatDuration: "10s",           // How long it takes hearts to float up (10-20s recommended)
-        floatDistance: "30px",          // How far hearts move sideways (30-70px recommended)
+        floatDistance: "70px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.3s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.2         // Size of heart explosion effect (1.2-2.0 recommended)
     },
