@@ -62,6 +62,7 @@ const CONFIG = {
         buttonBackground: "#A53860",     // Button color (should stand out against the background)
         buttonHover: "#EF88AD",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#3A0519"             // Text color (make sure it's readable!)
+        fontFamily: "'Poppins', cursive"
     },
 
     // Animation settings
