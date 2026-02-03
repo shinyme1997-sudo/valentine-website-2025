@@ -36,7 +36,7 @@ const CONFIG = {
             nextBtn: "Next 🖤"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? ❣️", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? ❣️", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "Hmmm"                                                 // Text for "No" button
         }
@@ -53,7 +53,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "I super adore you, super love you, and super cherish you",
-        message: "Now wait to get your gift, a big warm hug and lots of kisses on valentine day! My gorgeous gorgeous girlfriend",
+        message: "Now wait to get your gift, a big warm hug and lots of kisses on valentine's day! My gorgeous gorgeous girlfriend",
         emojis: "🎁"  // These will bounce around
     },
 
