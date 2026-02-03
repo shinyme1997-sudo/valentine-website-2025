@@ -54,7 +54,7 @@ const CONFIG = {
     celebration: {
         title: "I'm the luckiest person in the world!",
         message: "Now wait to get your gift, a big warm hug and a lots of kisses on valentine day!",
-        emojis: "🍓🎁🍓"  // These will bounce around
+        emojis: "🎁"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -72,7 +72,7 @@ const CONFIG = {
     animations: {
         floatDuration: "10s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.3s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        bounceSpeed: "0s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.2         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
