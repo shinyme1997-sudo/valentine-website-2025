@@ -3,6 +3,9 @@
 // ============================================
 
 const CONFIG = {
+    fontFamily: "'Poppins', cursive",
+    fontColor: "#FDECEF",
+    
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
     valentineName: "Rouxi",
@@ -87,4 +90,13 @@ const CONFIG = {
 };
 
 // Don't modify anything below this line unless you know what you're doing
-window.VALENTINE_CONFIG = CONFIG; 
+window.VALENTINE_CONFIG = CONFIG;
+// Apply font & color from config
+document.documentElement.style.setProperty(
+  "--valentine-font",
+  CONFIG.fontFamily
+);
+document.documentElement.style.setProperty(
+  "--valentine-color",
+  CONFIG.fontColor
+);
